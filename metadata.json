@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Buddy",
+  "description": "An AI-powered academic learning companion featuring AI tutor chat, concept explainer, notes summarizer, adaptive quiz generator, flashcards, and student dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
